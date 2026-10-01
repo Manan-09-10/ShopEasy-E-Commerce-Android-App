@@ -1,0 +1,21 @@
+<resources>
+
+    <color name="black">#000000</color>
+    <color name="white">#000000</color>
+
+    <!-- Flipkart Blue -->
+    <color name="primary">#2874F0</color>
+
+    <!-- Background -->
+    <color name="background">#F1F3F6</color>
+
+    <!-- Card -->
+    <color name="cardColor">#FFFFFF</color>
+
+    <!-- Price -->
+    <color name="priceGreen">#388E3C</color>
+
+    <!-- Cart -->
+    <color name="cartOrange">#2874F0</color>
+
+</resources>
